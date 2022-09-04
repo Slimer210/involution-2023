@@ -1,2 +1,2 @@
 # involution-2023
-The Year 2023's involution code
+2023 code for involution
