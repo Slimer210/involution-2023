@@ -1,4 +1,4 @@
-![Involution yyds](neijuan.png)
+![Involution yyds](neijuan.jpg)
 
 # Involution 2023 内卷2023
 Welcome to my involution repository where I burnt billions of brain cells for the passionate of coding.
