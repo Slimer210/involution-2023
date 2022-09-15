@@ -4,15 +4,13 @@
 #include <ranges>
 using namespace std;
 
-int main()
-{
+int main() {
     int countr, a;
     cin >> countr;
 
     vector<int> v;
 
-    for (int i = 0; i < countr; i++)
-    {
+    while (countr--) {
         cin >> a;
         v.push_back(a);
     }
