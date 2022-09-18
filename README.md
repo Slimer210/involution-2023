@@ -1,4 +1,4 @@
-![Involution yyds](neijuan.jpg)
+
 
 [Check my venting post here](https://github.com/Slimer210/Slimer210/blob/main/venting-please.md)
 # Involution 2023 内卷2023
