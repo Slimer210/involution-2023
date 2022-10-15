@@ -1,4 +1,6 @@
 # Involution 2023 内卷2023
+![内卷](neijuan.jpg)
+
 Welcome to my involution repository where I burnt billions of brain cells for the passionate of coding.
 
 ## About this
