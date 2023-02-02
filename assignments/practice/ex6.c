@@ -11,3 +11,14 @@ int main() {
     printf("char\t\t%d \n", sizeof(char));
     return 0;
 }
+
+/* 
+Data Type       Memory (bytes)
+short           2
+int             4
+long            4
+float           4
+double          8
+long double     16
+char            1
+*/
