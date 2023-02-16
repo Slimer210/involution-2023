@@ -57,7 +57,7 @@ I
 15 10.02 I
 */
 ```
-## Constant Variables
+## Constants
 ```cpp
 const int pressure_pa = 101325;
 // const will assign variable that have fixed value 
