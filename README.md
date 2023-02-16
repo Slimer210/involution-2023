@@ -13,6 +13,8 @@ That's too much reason for why this stuff exist, since:
 
 3. I was promised to attend coding competitions next year;-; 
 
+4. Lazy to open another repo for my coding assignments
+
 ## My targets
 I wish to solve at least a question a day to "call off" a tired day (but seriously as a high school student, this is impossible for me). And also by the time I'm solving questions, I can "help" others on their programming journey (since copying code is very easy)
 
