@@ -1,17 +1,11 @@
 #include <stdio.h>
-int main() {
-    // printf("    I can\'t\b\b  \rYES");
-    printf("No, I can't");
-    printf("\b");
-    printf("\b");
-    printf("!");
-    printf("!");
-    printf("\r");
-    printf("YES");
 
+int main() {
+    int cOS = 5;
+    double sOS = 80.0;
+    char lOS = 'B';
+    printf("\nClass\tScore\tLevel\n");
+    printf("%d\t%.2f\t%c\n", cOS, sOS, lOS);
+    
     return 0;
 }
-
-// \b = backspace (move cursor to 1 character behind)
-// \r = return (move cursor to the first character in the line)
-// \n = newline
