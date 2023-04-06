@@ -1,3 +1,4 @@
+#include<stdio.h>
 int main() {
     int count = 100, sum;
     // standard for loop method
