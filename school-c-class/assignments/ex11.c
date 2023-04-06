@@ -2,9 +2,8 @@
 
 int main()
 {
-    float temp, c;
+    float temp;
     scanf("%f", &temp);
-    c = (temp-32)*5/9;
-    printf("%.0f", c);
+    printf("%.0f", (temp-32)*5/9);
     return 0;
 }
