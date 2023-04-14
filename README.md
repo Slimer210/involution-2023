@@ -2,6 +2,10 @@
 
 Welcome to my involution repository where I spent billions of brain cells for the passionate of coding (or just to flex lol).
 
+## Updates 14th April 2023
+
+This is too funny I think... I don't know why I'm trying to waste more time on this. I'm already get busy but I still want... Haiyaa I shouldn't make those low quality promise.
+
 ## About this
 This is a repo to collect all of my coding challenges so that I can use it in future before any coding events & contests. All the codes may contain more than a single solution. So, you may try it out with your own solution based on your preferences. (sharing is caring, you may drop me a PR~)
 
