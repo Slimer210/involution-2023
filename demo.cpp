@@ -1,13 +1,14 @@
 #include <iostream>
+using namespace std;
  
 int main(){
-    std::cout << "Hello World" << std::endl;
-    std::cout << "You are using ";
-    if (__cplusplus == 201703L) std::cout << "C++ 17\n";
-    else if (__cplusplus == 201402L) std::cout << "C++ 14\n";
-    else if (__cplusplus == 201103L) std::cout << "C++ 11\n";
-    else if (__cplusplus == 199711L) std::cout << "C++ 98\n";
-    else std::cout << "pre-standard C++\n";
+    cout << "Hello World" << endl;
+    cout << "You are using ";
+    if (__cplusplus == 201703L) cout << "C++ 17\n";
+    else if (__cplusplus == 201402L) cout << "C++ 14\n";
+    else if (__cplusplus == 201103L) cout << "C++ 11\n";
+    else if (__cplusplus == 199711L) cout << "C++ 98\n";
+    else cout << "pre-standard C++\n";
     return 0;
 }
 
