@@ -12,6 +12,7 @@ int main() {
 	double cb = -2;
 	double cc = -3;
 	cin >> m >> c;
+	scanf("%lf %lf", &m, &c);
 	cb-=m;
 	cc-=c;
 	double det = (cb*cb)-(4*ca*cc);
@@ -20,7 +21,7 @@ int main() {
 		return 0;
 	} else if(det==0) {
 		cout << "One intersection" << endl;
-		double x = ((-cb)+sqrt(det))/(2*ca);
+		double x = ((-cb))/(2*ca);
 		
 		printf("%.7lf, %.7lf\n", x, (x*x + -2*x -3));
 	} else {

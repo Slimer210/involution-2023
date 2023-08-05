@@ -9,7 +9,7 @@ int main() {
     // Test fail cases
     if (floor(x) != x || floor(y) != y || x<0 || y<0) {
         cout << "Invalid Input" << endl;
-        exit(0);
+        return 0;
     }
 
     int a=x, b=y;
