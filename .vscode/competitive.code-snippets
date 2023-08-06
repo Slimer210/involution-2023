@@ -1,0 +1,14 @@
+{
+	"CPP Boilerplate": {
+		"scope": "cpp",
+		"prefix": "cpp",
+		"body": [
+			"#include <iostream>",
+			"using namespace std;\n",
+			"int main() {",
+			"\t",
+			"}",
+		],
+		"description": "Set up Boilerplate"
+	}
+}
