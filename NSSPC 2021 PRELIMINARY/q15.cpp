@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-    int n;
-    char c;
+    int n=10;
+    char c=3;
     cin >> n >> c;
     for (int i = 1; i<=n; i++) {
         for (int j=0; j<n-i; j++) {
@@ -14,17 +14,10 @@ int main() {
         } 
         cout << endl;
     }
-
-
     for (int i = 1; i<=n; i++) {
         for (int j=n-1; j>0; j--) {
             cout << " ";
         }  
-        cout << c;
-        for (int j=n-1; j>0; j--) {
-            cout << " ";
-        }    
-        cout << endl;
+        cout << c << endl;
     }
-
 }
