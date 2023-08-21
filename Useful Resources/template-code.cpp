@@ -41,6 +41,14 @@ void yes() { cout<<"YES\n"; }
 void no() { cout<<"NO\n"; }
 void invld() { cout << "Invalid Input!\n"; }
 
+// mathematical calculation
+int fac(int n) {
+   if ((n==0)||(n==1))
+   return 1;
+   else
+   return n*fac(n-1);
+}
+
 /*  All Required define Pre-Processors and typedef Constants */
 typedef long int int32;
 typedef unsigned long int uint32;
