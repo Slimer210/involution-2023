@@ -39,3 +39,5 @@ test.c
 temp/
 
 tasks.json
+
+.vscode/
