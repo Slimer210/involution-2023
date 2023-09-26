@@ -1,4 +1,4 @@
-# Involution 2023 内卷2023
+# Involution 2023
 
 Welcome to my involution repository where I spent billions of brain cells for the passionate of coding (or just to flex lol).
 
