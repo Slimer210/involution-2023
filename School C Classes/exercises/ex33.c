@@ -1,5 +1,4 @@
 #include <stdio.h>
-//ex33
 int main()
 {
     int ex[7];
