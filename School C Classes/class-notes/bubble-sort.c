@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    int n, i, is_sorted;
+    int n=14, i, is_sorted;
     printf("How many numbers do you want to sort? ");
     scanf("%d", &n);
     int arr[n];
@@ -12,12 +12,14 @@ int main() {
     do {
         is_sorted=1;
         for (i=0;i<n-1;i++) {
-            if (arr[i]>arr[i+1]) {
-                temp=arr[i];
-                arr[i]=arr[i+1];
-                arr[i+1]=temp;
-                is_sorted=0;
-            }
+        	for (;i<(n-1); i++) { 
+                if (arr[i]>arr[i+1]) {
+                	temp=arr[i];
+                	arr[i]=arr[i+1];
+                	arr[i+1]=temp;
+                	is_sorted=0;
+            	}
+            } 
         }
     } while (!is_sorted);
     printf("Sorted numbers: ");
