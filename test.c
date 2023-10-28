@@ -1,17 +1,13 @@
 #include <stdio.h>
-#include <math.h>
 int main(){
 	
-	int a,b,c,d;
-	
-	printf("Enter grade respectively (BM,BI,BC,MC):");
-	scanf("%d %d %d %d",&a,&b,&c,&d);
-
-    if(a>40 && b>40 && c>40 && d>40)
-	printf("Pass");
-    else
-    printf("Fail");
+	int i, j;
+	for (i=0; i<10; i++) {
+		for (j=0; j<10; j++){
+			printf("%d %d  ", i, j);
+		}
+		printf("\n");
+	}
 		
 	return 0;
-	
 }
