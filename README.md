@@ -1,5 +1,7 @@
 # Involution 2023
 
+> Archived to prepare for 2024 competitions.
+
 Welcome to my involution repository where I spent billions of brain cells for the passionate of coding (or just to flex lol).
 
 _(Updated 2nd Sep 2023) Finally after bunch of practices, the NSSPC finals finally ended. I really appreciated for those who supported me along these moments. Thanks for drawing me a new memories in my mind, and I really appreciated any presence._
